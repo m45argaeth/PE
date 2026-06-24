@@ -45,7 +45,7 @@ export const SERIES: SeriesItem[] = [
   {
     id: "pe",
     name: "Prompt Explorer",
-    url: "https://pe-playground.vercel.app",
+    url: "https://pe-playground-snowy.vercel.app",
   },
 ]
 
@@ -99,7 +99,7 @@ export const PLAYGROUNDS: Playground[] = [
   {
     id: "pe",
     name: "Prompt Explorer",
-    url: "https://pe-playground.vercel.app",
+    url: "https://pe-playground-snowy.vercel.app",
     universe: "ebn",
     status: "live",
   },
